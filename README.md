@@ -9,4 +9,4 @@ Repo para repaso examen
 uvicorn --app-dir src main:app --reload
 ***
 3. Acceder a
-'http://127.0.0.1:8000/items/5?q=somequery'
+`http://127.0.0.1:8000/items/5?q=somequery` o a `http://127.0.0.1:8000`.
